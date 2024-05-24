@@ -161,11 +161,11 @@ const technologies: TTechnology[] = [
 
 const experiences: TExperience[] = [
   {
-    title: "Frontend Developer",
+    title: "Web Developer",
     companyName: "DiveDeepAI",
     icon: divedeepai,
     iconBg: "#383E56",
-    date: "may 2023 - Present",
+    date: "may 2023 - May 2024",
     points: [
       "Developing and maintaining web applications using React.js, Next.js and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
@@ -174,7 +174,7 @@ const experiences: TExperience[] = [
     ],
   },
   {
-    title: "Frontend  Developer",
+    title: "Web  Developer",
     companyName: "Alright tech",
     icon: alrighttech,
     iconBg: "#E6DEDD",
@@ -190,9 +190,9 @@ const experiences: TExperience[] = [
     companyName: "Fiverr - Freelacer",
     icon: fiverr,
     iconBg: "#383E56",
-    date: "Aug 2021 - Present",
+    date: "2020 - 2024",
     points: [
-      "Developing and maintaining User Interfaces and web applications using React.js, Next.js, Node js Express js and other related technologies.",
+      "Developing and maintaining web applications using React.js, Next.js, Node js Express js and other related technologies.",
       "Managing Clients with meeting and best communication skills.",
     ],
   },
